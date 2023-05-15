@@ -8,7 +8,7 @@
 
 
 ### Currently working  
-- 🔭 I’m currently working on [Pondit](https://pundit.com)  
+- 🔭 I’m currently working on [Pondit](https://pondit.com)  
   
 
 
