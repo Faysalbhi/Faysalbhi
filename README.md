@@ -8,16 +8,16 @@
 
 
 ### Currently working  
-- 🔭 I’m currently working on [Pondit](https://pondit.com)  
+- 🔭 I’m currently working on [Pondit](https://smartwebsource.com)  
   
 
 
 
 ### Currently Learning  
-- 🌱 I’m currently learning Advance js & Laravel 
+- 🌱 I’m currently learning Docker, Devops, Advance js & ODOO. 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Web related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
