@@ -41,7 +41,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin:10px"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin:10px"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin:10px"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-original.svg" alt="Laravel" height="50" style="margin:10px"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://as1.ftcdn.net/jpg/02/47/68/42/1000_F_247684298_VwQU7FCsKq6FXR3YRyTeCV6RvitYCReY.jpg" alt="Laravel" height="50" style="margin:10px"/></a>
 </div>
 
 ---
@@ -54,7 +54,7 @@
 <a href="https://www.facebook.com/ali.faysal.777" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%232E87FB?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin:5px"/>
 </a>
-<a href="mailto:ali.faysal@example.com" target="_blank">
+<a href="mailto:laraveldeveloper.bd@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px"/>
 </a>
 </div>
