@@ -41,7 +41,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin:10px"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin:10px"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin:10px"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://as1.ftcdn.net/jpg/02/47/68/42/1000_F_247684298_VwQU7FCsKq6FXR3YRyTeCV6RvitYCReY.jpg" alt="Laravel" height="50" style="margin:10px"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://t3.ftcdn.net/jpg/06/49/84/44/240_F_649844419_DP175NuXZKhQRYGUxPgU0BaQLd8EHn3K.jpg" alt="Laravel" height="50" style="margin:10px"/></a>
 </div>
 
 ---
